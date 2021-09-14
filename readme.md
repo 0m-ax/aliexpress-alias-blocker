@@ -11,8 +11,7 @@ https://raw.githubusercontent.com/0m-ax/aliexpress-alias-blocker/master/list.txt
 
 ## TODO
 
-- [x] Google text results
-- [ ] Google images
+- [x] Google text and images results
 - [ ] Other search engines eg Duck Duck Go 
 - [ ] Automatically Check if domains are still redirecting
 
