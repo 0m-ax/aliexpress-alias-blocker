@@ -2,12 +2,19 @@
 
 An AD block list that, blocks parked domains that point to aliexpress from google (and maybe others) results.
 
+# How to use
+Add the following filter list to your AD blocker
+```
+https://raw.githubusercontent.com/0m-ax/aliexpress-alias-blocker/master/list.txt
+```
+
 
 ## TODO
 
 - [x] Google text results
 - [ ] Google images
 - [ ] Other search engines eg Duck Duck Go 
+- [ ] Automatically Check if domains are still redirecting
 
 ## Contributing
 
