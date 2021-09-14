@@ -1,0 +1,2 @@
+google.*##[href*="maxify.dk"]:nth-ancestor(2)
+google.*##[href*="sunaxperience.dk"]:nth-ancestor(2)
